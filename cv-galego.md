@@ -25,7 +25,7 @@ Perfíl público Linkedin: 	*[linkedin.com/in/dieg0vb/](http://es.linkedin.com/i
 - Seguridade empresarial baseada en software libre `CNTG`       	2014
 - Implantacións de Software Libre para PeMES `USC`			2007
 - Supercomputador HP Superdome `CESGA` 					2006
-- Máis de 800 horas en coloquios/seminarios
+- Máis de 800 horas en coloquios/seminarios (QoS, MPLS, WMware, SDN, Varnish)
 - Formación continuada (Udemy, Coursera...) 				2012/2015
 - Formación interna `RETEGAL`						2008/2015
 >
@@ -45,11 +45,11 @@ Perfíl público Linkedin: 	*[linkedin.com/in/dieg0vb/](http://es.linkedin.com/i
 
 >**Experiencia laboral**
 
-`RETEGAL` Redes de Telecomunicación Galegas 				2008/2015
+- `RETEGAL` Redes de Telecomunicación Galegas 				2008/2015
 _Técnico de telecomunicacións no CEXAR/NOC_
-`GST`  Galega de Sistemas de Telecomunicación 				2008
+- `GST`  Galega de Sistemas de Telecomunicación 				2008
 _Técnico de telecomunicacións_
-`Discalis Soluciones`  			     				2006/2007
+- `Discalis Soluciones`  			     				2006/2007
 _Técnico de rede e sistemas_
 
 >**Habilidades**
