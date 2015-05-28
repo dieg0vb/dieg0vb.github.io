@@ -21,7 +21,7 @@ Perfíl público Linkedin: 	*[linkedin.com/in/dieg0vb/](http://es.linkedin.com/i
 
 - CCNA R&S [^](http://dieg0vb.github.io/cv/CCNA-RS.pdf) `CISCO` 							2015
 - CCNA Security [^](http://dieg0vb.github.io/cv/CCNA-S.pdf) `CISCO`							2014
-- Zentyal Certified Associate [ZeCA[^](http://dieg0vb.github.io/cv/zentyal.pdf)] `ZENTYAL` 2014
+- Zentyal Certified Associate [ZeCA] [^](http://dieg0vb.github.io/cv/zentyal.pdf) `ZENTYAL` 2014
 - Seguridade empresarial baseada en software libre [^](http://dieg0vb.github.io/cv/SecUNIX.pdf) `CNTG`       	2014
 - Implantacións de Software Libre para PeMES `USC`			2007
 - Supercomputador HP Superdome [^](http://dieg0vb.github.io/cv/HP-Superdome.pdf) `CESGA` 					2006
@@ -30,8 +30,8 @@ Perfíl público Linkedin: 	*[linkedin.com/in/dieg0vb/](http://es.linkedin.com/i
 	- Data Center Virtualization Fundamentals
 	- VMware Network Virtualization Fundamentals
 - Formación interna `RETEGAL`						2008/2015
-	- Broadcast series: ATVD, MRTVD & Cisco MTR	 [^](http://dieg0vb.github.io/cv/ITELSIS1.pdf) [^](http://dieg0vb.github.io/cv/ITELSIS2.pdf) [^](http://dieg0vb.github.io/cv/ITELSIS3.pdf) [^](http://dieg0vb.github.io/cv/ITELSIS4.pdf)			*++ITELSIS++*
-	- Broadcast series: MTD, MRD, CCU & MRR	 [^](http://dieg0vb.github.io/cv/EGATEL1.pdf) [^](http://dieg0vb.github.io/cv/EGATEL2.pdf)			*++EGATEL++*
+	- Broadcast series: ATVD, MRTVD & Cisco MTR	 [^](http://dieg0vb.github.io/cv/ITELSIS1.pdf) [^](http://dieg0vb.github.io/cv/ITELSIS2.pdf)[^](http://dieg0vb.github.io/cv/ITELSIS3.pdf)	[^](http://dieg0vb.github.io/cv/ITELSIS4.pdf)			*++ITELSIS++*
+	- Broadcast series: MTD, MRD, CCU & MRR	 [^](http://dieg0vb.github.io/cv/EGATEL1.pdf)[^](http://dieg0vb.github.io/cv/EGATEL2.pdf)			*++EGATEL++*
 	- Broadcast series: Equipment O&M Rx/Tx & Gapfillers  [^](http://dieg0vb.github.io/cv/TRedes1.pdf)		*++TREDESS++*
 	- Broadcast series: Sistema TETRA [Cassidian]		*++ABERTIS++*
 
