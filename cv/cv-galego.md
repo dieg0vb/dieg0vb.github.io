@@ -9,7 +9,6 @@ Teléfonos:			Móbil *628087202* - Fixo *981817267*
 Enderezo:			*Rúa Real 32,5ºB CP.15900 Padrón (A Coruña)*
 Correo electrónico: *[vigobermudez.diego@gmail.com](mailto:vigobermudez.diego@gmail.com)*
 Currículo online:	*[dieg0vb.github.io/cv](http://dieg0vb.github.io/cv)*
-Perfíl público Linkedin: 	*[linkedin.com/in/dieg0vb/](http://es.linkedin.com/in/dieg0vb/)*
 
 
 >**Formación académica certificada**
@@ -21,19 +20,17 @@ Perfíl público Linkedin: 	*[linkedin.com/in/dieg0vb/](http://es.linkedin.com/i
 
 - CCNA R&S [^](http://dieg0vb.github.io/cv/CCNA-RS.pdf) `CISCO` 							2015
 - CCNA Security [^](http://dieg0vb.github.io/cv/CCNA-S.pdf) `CISCO`							2014
-- Zentyal Certified Associate [ZeCA] [^](http://dieg0vb.github.io/cv/zentyal.pdf) `ZENTYAL` 2014
+- Zentyal Certified Associate [ZeCA[^](http://dieg0vb.github.io/cv/zentyal.pdf)] `ZENTYAL` 2014
 - Seguridade empresarial baseada en software libre [^](http://dieg0vb.github.io/cv/SecUNIX.pdf) `CNTG`       	2014
 - Implantacións de Software Libre para PeMES `USC`			2007
 - Supercomputador HP Superdome [^](http://dieg0vb.github.io/cv/HP-Superdome.pdf) `CESGA` 					2006
 - Máis de 800 horas en coloquios/seminarios (QoS, MPLS, WMware, SDN, Varnish, JS) [^](http://dieg0vb.github.io/cv/seminario1.pdf) [^](http://dieg0vb.github.io/cv/seminario2.pdf) [^](http://dieg0vb.github.io/cv/seminario3.pdf) [^](http://dieg0vb.github.io/cv/seminario4.pdf) [^](http://dieg0vb.github.io/cv/html5.pdf)
 - Formación continuada (Udemy, Coursera, VMware Education) 		2012/2015
-	- Data Center Virtualization Fundamentals
-	- VMware Network Virtualization Fundamentals
 - Formación interna `RETEGAL`						2008/2015
-	- Broadcast series: ATVD, MRTVD & Cisco MTR	 [^](http://dieg0vb.github.io/cv/ITELSIS1.pdf) [^](http://dieg0vb.github.io/cv/ITELSIS2.pdf)[^](http://dieg0vb.github.io/cv/ITELSIS3.pdf)	[^](http://dieg0vb.github.io/cv/ITELSIS4.pdf)			*++ITELSIS++*
-	- Broadcast series: MTD, MRD, CCU & MRR	 [^](http://dieg0vb.github.io/cv/EGATEL1.pdf)[^](http://dieg0vb.github.io/cv/EGATEL2.pdf)			*++EGATEL++*
+	- Broadcast series: ATVD, MRTVD & Cisco MTR	 [^](http://dieg0vb.github.io/cv/ITELSIS1.pdf) [^](http://dieg0vb.github.io/cv/ITELSIS2.pdf) [^](http://dieg0vb.github.io/cv/ITELSIS3.pdf) [^](http://dieg0vb.github.io/cv/ITELSIS4.pdf)			*++ITELSIS++*
+	- Broadcast series: MTD, MRD, CCU & MRR	 [^](http://dieg0vb.github.io/cv/EGATEL1.pdf) [^](http://dieg0vb.github.io/cv/EGATEL2.pdf)			*++EGATEL++*
 	- Broadcast series: Equipment O&M Rx/Tx & Gapfillers  [^](http://dieg0vb.github.io/cv/TRedes1.pdf)		*++TREDESS++*
-	- Broadcast series: Sistema TETRA [Cassidian]		*++ABERTIS++*
+	- Sistema TETRA [Cassidian]		*++ABERTIS++*
 
 
 >**Idiomas**
@@ -44,7 +41,7 @@ Perfíl público Linkedin: 	*[linkedin.com/in/dieg0vb/](http://es.linkedin.com/i
 
 >**Experiencia laboral**
 
-- `RETEGAL` Redes de Telecomunicación Galegas 				2008/2015 - [_Técnico de telecomunicacións no CEXAR/NOC_]
+- `RETEGAL` Redes de Telecomunicación Galegas 				2008/2015 [_Técnico de telecomunicacións no CEXAR/NOC_]
 - `GST`  Galega de Sistemas de Telecomunicación 			2008 [_Técnico de telecomunicacións_]
 - `Discalis Soluciones`  			     					2006/2007 [_Técnico de rede e sistemas_]
 
