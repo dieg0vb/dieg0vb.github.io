@@ -13,7 +13,7 @@ Currículo online:	*[dieg0vb.github.io/cv](http://dieg0vb.github.io/cv)*
 
 >**Formación académica certificada**
 
-- T.S. Telecomunicacións e Informática	[^](http://dieg0vb.github.io/cv/ts_tsi.pdf)			2008
+- T.S. Telecomunicacións e Informática	[^](http://dieg0vb.github.io/cv/ts_tsi.pdf) 2008
 - T.S. Administración de Sistemas Informáticos [^](http://dieg0vb.github.io/cv/ts_asi.pdf)	2006
 
 >**Formación complementaria certificada**
@@ -24,7 +24,7 @@ Currículo online:	*[dieg0vb.github.io/cv](http://dieg0vb.github.io/cv)*
 - Seguridade empresarial baseada en software libre [^](http://dieg0vb.github.io/cv/SecUNIX.pdf) `CNTG`       	2014
 - Implantacións de Software Libre para PeMES `USC`			2007
 - Supercomputador HP Superdome [^](http://dieg0vb.github.io/cv/HP-Superdome.pdf) `CESGA` 					2006
-- Máis de 800 horas en coloquios/seminarios (QoS, MPLS, WMware, SDN, Varnish, JS) [^](http://dieg0vb.github.io/cv/seminario1.pdf) [^](http://dieg0vb.github.io/cv/seminario2.pdf) [^](http://dieg0vb.github.io/cv/seminario3.pdf) [^](http://dieg0vb.github.io/cv/seminario4.pdf) [^](http://dieg0vb.github.io/cv/html5.pdf)
+- Seminarios/coloquios (QoS, MPLS, WMware, SDN, Varnish, JS) [^](http://dieg0vb.github.io/cv/seminario1.pdf) [^](http://dieg0vb.github.io/cv/seminario2.pdf) [^](http://dieg0vb.github.io/cv/seminario3.pdf) [^](http://dieg0vb.github.io/cv/seminario4.pdf) [^](http://dieg0vb.github.io/cv/html5.pdf)
 - Formación continuada (Udemy, Coursera, VMware Education) 		2012/2015
 - Formación interna `RETEGAL`						2008/2015
 	- Broadcast series: ATVD, MRTVD & Cisco MTR	 [^](http://dieg0vb.github.io/cv/ITELSIS1.pdf) [^](http://dieg0vb.github.io/cv/ITELSIS2.pdf) [^](http://dieg0vb.github.io/cv/ITELSIS3.pdf) [^](http://dieg0vb.github.io/cv/ITELSIS4.pdf)			*++ITELSIS++*
@@ -41,14 +41,14 @@ Currículo online:	*[dieg0vb.github.io/cv](http://dieg0vb.github.io/cv)*
 
 >**Experiencia laboral**
 
-- `RETEGAL` Redes de Telecomunicación Galegas 				2008/2015 - [_Técnico de telecomunicacións no CEXAR/NOC_]
+- `RETEGAL` Redes de Telecomunicación Galegas 				2008/2015 [_Técnico de telecomunicacións no CEXAR/NOC_]
 - `GST`  Galega de Sistemas de Telecomunicación 			2008 [_Técnico de telecomunicacións_]
 - `Discalis Soluciones`  			     					2006/2007 [_Técnico de rede e sistemas_]
 
 >**Habilidades**
 
 
-`Seguridade IT` `Auditoría` `Análise de rede` `Cisco` `CACTI` `Nagios check_mk nagvis` `NNMi` `UNIX` `Estadísticas de calidade` `MPLS`  `SQL` `Cloud Computing` `Proxmox` `VMware` `Python` `Bash` `Shell scripting` `GIT` `Control de custos de organización` `DVB-X` `Linux` `UNIX` `Planificación, coordinación e documentación` `Implantación/integración proxectos ERP` `Recepción/difusión de radio/TV` `Tradución Galego` `HTML5`
+`Seguridade IT` `Auditoría` `Análise de rede` `Cisco` `CACTI` `Nagios check_mk nagvis` `NNMi` `UNIX` `Estadísticas de calidade` `MPLS`  `SQL` `Cloud Computing` `Proxmox` `VMware` `Python` `Bash` `Shell scripting` `GIT` `Control de custos de organización` `DVB-X` `Linux` `UNIX` `Planificación, coordinación e documentación` `Recepción/difusión de radio/TV` `HTML5`
 
 >**Características persoais**
 
