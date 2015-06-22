@@ -32,7 +32,6 @@ Currículo online:	*[dieg0vb.github.io/cv](http://dieg0vb.github.io/cv)*
 	- Broadcast series: Equipment O&M Rx/Tx & Gapfillers  [^](http://dieg0vb.github.io/cv/TRedes1.pdf)		*++TREDESS++*
 	- Sistema TETRA [Cassidian]		*++ABERTIS++*
 
-
 >**Idiomas**
 
 `Galego`	Nativo _(CELGA4 [^](http://dieg0vb.github.io/cv/celga.pdf))_
@@ -47,12 +46,11 @@ Currículo online:	*[dieg0vb.github.io/cv](http://dieg0vb.github.io/cv)*
 
 >**Habilidades**
 
-
-`Seguridade IT` `Auditoría` `Análise de rede` `Cisco` `CACTI` `Nagios check_mk nagvis` `NNMi` `UNIX` `Estadísticas de calidade` `MPLS`  `SQL` `Cloud Computing` `Proxmox` `VMware` `Python` `Bash` `Shell scripting` `GIT` `Control de custos de organización` `DVB-X` `Linux` `UNIX` `Planificación, coordinación e documentación` `Recepción/difusión de radio/TV` `HTML5`
+`Seguridade IT` `Auditoría` `Análise de rede` `Cisco` `CACTI` `Nagios check_mk nagvis` `NNMi` `Estadísticas de calidade` `MPLS`  `SQL` `Cloud Computing` `Proxmox` `VMware` `Python` `Bash` `Shell scripting` `GIT` `Control de custos de organización` `DVB-X` `Linux` `UNIX` `Planificación, coordinación e documentación` `Recepción/difusión de radio/TV` `HTML5`
 
 >**Características persoais**
 
 - Compromiso, rigorosidade e boa interrelación persoal.
 - Habituado a traballar en contornos competitivos.
 - Proactivo e iniciativa no traballo en equipo.
-- Boa presencia.
+- Boa presenza.
